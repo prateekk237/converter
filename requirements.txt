@@ -1,7 +1,7 @@
 python-pptx==0.6.21
 PyMuPDF==1.22.5
 Pillow==10.0.0
-opencv-python==4.8.0.74
+opencv-python-headless==4.8.0.74
 numpy==1.26.0
 pytesseract==0.3.10
 streamlit==1.27.2

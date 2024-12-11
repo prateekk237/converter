@@ -1,6 +1,6 @@
-streamlit==1.19.0
-PyMuPDF==1.22.3
-python-pptx==0.6.21
-Pillow==9.2.0
-pdfplumber==0.6.0
+streamlit
+PyMuPDF
+python-pptx
+Pillow
+pdfplumber
 pdf2pptx
